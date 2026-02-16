@@ -1,8 +1,6 @@
 # Real-Time-Vehicle-Person-Detection-using-YOLOv8
 
 
-Here’s a **professional, portfolio-ready README.md** you can directly paste into your GitHub repository 👇
-
 ---
 
 # 🚗 Vehicle & Person Detection in Video using YOLOv8
